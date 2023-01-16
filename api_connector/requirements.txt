@@ -1,0 +1,6 @@
+fastapi
+aioify
+httpx
+
+pytest
+pytest-asyncio
